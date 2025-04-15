@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(241, 243, 240);
+  background-color: rgb(247, 247, 250);
   color: black;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -9,14 +9,14 @@ h1 {
   font-weight: 900;
   font-size: 48px;
   line-height: 1.5;
-  color: rgb(70, 117, 72);
+  color: rgb(83, 78, 110);
   text-align: center;
 }
 
 .container {
   margin: 120px auto;
   max-width: 600px;
-  background-color: rgb(241, 243, 240);
+  background-color: rgb(247, 247, 250);
 }
 
 header {
@@ -25,7 +25,7 @@ header {
 
 form {
   padding: 10px 5px;
-  background-color: white;
+  background-color: rgb(101, 99, 122);
   border-radius: 20px;
   display: flex;
   box-shadow: 0px 4px 6px 0px rgba(65,50,100,0.5)
@@ -42,7 +42,7 @@ form {
 
 .submitButton {
   margin-left: 10px;
-  background-color: rgb(70, 117, 72);
+  background-color: rgb(39, 36, 70);
   border-radius: 20px;
   padding: 15px 30px;
   color: white;
